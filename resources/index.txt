@@ -1,4 +1,4 @@
-audio	condition	item	stimulus	answer
+﻿audio	condition	item	stimulus	answer
 35_1_exp	NM_Pl	exp	"Насколько же тугая у Кирилла дома пружины в замке, открыть невозможно."	1
 36_1_fill	M_Pl	fill	В детективе семь бандитов с бритыми головами оказались помощниками полицейского.	0
 37_1_fill	M_Pauc	fill	В зоопарке три тигра из Индии заболели воспалением легких.	0
